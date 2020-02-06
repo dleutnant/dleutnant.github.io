@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Academic</title><link>/post/</link><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Posts</title><link>/post/</link></image><item><title>Test</title><link>/post/test/</link><pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate><guid>/post/test/</guid><description>&lt;h1 id="this-is-a-test">This is a test&lt;/h1>
-&lt;p>Test test&lt;/p></description></item><item><title>Writing technical content in Academic</title><link>/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>/post/writing-technical-content/</guid><description>&lt;p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Academic</title><link>https://dleutnant.github.io/post/</link><atom:link href="https://dleutnant.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate><image><url>img/map[gravatar:%!s(bool=false) shape:circle]</url><title>Posts</title><link>https://dleutnant.github.io/post/</link></image><item><title>Test</title><link>https://dleutnant.github.io/post/test/</link><pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate><guid>https://dleutnant.github.io/post/test/</guid><description>&lt;h1 id="this-is-a-test">This is a test&lt;/h1>
+&lt;p>Test test&lt;/p></description></item><item><title>Writing technical content in Academic</title><link>https://dleutnant.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://dleutnant.github.io/post/writing-technical-content/</guid><description>&lt;p>Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p>
 &lt;p>&lt;strong>Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong>&lt;/p>
 &lt;p>On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p>
 &lt;h2 id="examples">Examples&lt;/h2>
@@ -225,7 +225,7 @@ in addition to
 &lt;i class="fas fa-terminal pr-1 fa-fw">&lt;/i> Terminal&lt;br>
 &lt;i class="fab fa-python pr-1 fa-fw">&lt;/i> Python&lt;br>
 &lt;i class="fab fa-r-project pr-1 fa-fw">&lt;/i> R&lt;/p>
-&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
+&lt;h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌&lt;/h3></description></item><item><title>Display Jupyter Notebooks with Academic</title><link>https://dleutnant.github.io/post/jupyter/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://dleutnant.github.io/post/jupyter/</guid><description>&lt;pre>&lt;code class="language-python">from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 &lt;/code>&lt;/pre>
 &lt;p>&lt;img src="./index_1_0.png" alt="png">&lt;/p>
@@ -269,7 +269,7 @@ as a guide to the available options.&lt;/p>
 &lt;pre>&lt;code class="language-bash">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code>&lt;/pre>
 &lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Academic: the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;p>&lt;strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em>widgets&lt;/em>, &lt;em>themes&lt;/em>, and &lt;em>language packs&lt;/em> included!&lt;/strong>&lt;/p>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title>Academic: the website builder for Hugo</title><link>https://dleutnant.github.io/post/getting-started/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://dleutnant.github.io/post/getting-started/</guid><description>&lt;p>&lt;strong>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em>widgets&lt;/em>, &lt;em>themes&lt;/em>, and &lt;em>language packs&lt;/em> included!&lt;/strong>&lt;/p>
 &lt;p>
 &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a>
 of what you&amp;rsquo;ll get in less than 10 minutes, or
@@ -417,7 +417,7 @@ to help keep track of
 .&lt;/p>
 &lt;p>Released under the
 &lt;a href="https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a>
-license.&lt;/p></description></item><item><title>Hello R Markdown</title><link>/post/2015-07-23-r-rmarkdown/</link><pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate><guid>/post/2015-07-23-r-rmarkdown/</guid><description>
+license.&lt;/p></description></item><item><title>Hello R Markdown</title><link>https://dleutnant.github.io/post/2015-07-23-r-rmarkdown/</link><pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate><guid>https://dleutnant.github.io/post/2015-07-23-r-rmarkdown/</guid><description>
 &lt;div id="r-markdown" class="section level1">
 &lt;h1>R Markdown&lt;/h1>
 &lt;p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com&lt;/a>.&lt;/p>
@@ -451,7 +451,7 @@ col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&a
 init.angle = -50, border = NA
 )&lt;/code>&lt;/pre>
 &lt;div class="figure">&lt;span id="fig:pie">&lt;/span>
-&lt;img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+&lt;img src="https://dleutnant.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
 &lt;p class="caption">
 Figure 1: A fancy pie chart.
 &lt;/p>
